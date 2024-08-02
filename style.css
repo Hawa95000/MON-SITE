@@ -1,0 +1,39 @@
+
+
+
+h2{
+
+	color:mediumpurple;
+}
+
+h3{
+
+	color:slateblue;
+}
+
+p{
+
+    text-align: center;
+    color:hotpink;
+    font-family: fantasy;
+}
+
+body{  
+
+	background-color:#FEF9E7
+
+ }
+
+ #royaume-bonbons1{
+ 	height: 700px;
+   
+     }
+ #royaume-bonbons2{
+
+ 	height:600px ;
+    width:500px ;
+ }
+
+ .div-flex{
+	display: flex;
+ }
